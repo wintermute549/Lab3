@@ -96,7 +96,6 @@ class Contour {
             }
         }
         return l;
-    }
-    
-    
+    }   
 }
+//1
